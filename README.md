@@ -5,7 +5,7 @@ A simple Currency Converter implemented using HTML,CSS and Javascript.
 ## Installation
 
 1. Clone the repository.
-2. Open `index.html` in your web browser to start the game.
+2. Open `index.html` in your web browser to start.
 
 ## How to Use
 
