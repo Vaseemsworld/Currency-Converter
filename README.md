@@ -1,8 +1,6 @@
-# Tic Tac Toe Game
+# Currency Converter
 
 A simple Currency Converter implemented using HTML,CSS and Javascript.
-
-![Currency Converter]
 
 ## Installation
 
